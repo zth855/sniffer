@@ -6,4 +6,4 @@ Ubuntu 18.04
 qt 5.12.7
 
 
-在build目录下输入`sudo ./sniffer`运行
+在bin目录下输入`sudo ./sniffer`运行
